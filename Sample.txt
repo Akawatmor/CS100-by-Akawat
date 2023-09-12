@@ -1,0 +1,5 @@
+Python GUI Calculator
+
+Changelog
+V 1.3 add Minor and Cofactor support
+V 1.2 bug fixes on power matrix
